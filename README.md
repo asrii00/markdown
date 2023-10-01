@@ -17,6 +17,7 @@ My top 3 favorite [colors](https://en.wikipedia.org/wiki/Color) are:
 1. `#04257a`
 1. `#104d1a`
 1. `#33b0a3`
+2. `rgb(9, 105, 218)`
 
 ## Emoji Section
 
